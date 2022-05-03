@@ -2,7 +2,7 @@
 <h1 align="center">I'm Hailee</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/huijunlu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/luhuijun/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=huijunlu&style=flat-square&color=blue" alt="huijunlu"/>
