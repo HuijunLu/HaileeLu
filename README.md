@@ -9,7 +9,7 @@
 </p
 <p align="left"> </p>
 
-- 🌱 I’m currently learning more about **system design**
+- 🌱 I’m currently learning more about **data structures & systerm designs**
 - ⚡️ Always love exploring new tech stacks
 - 🏃‍♀️ I'm a marathon runner and yoga lover
 
