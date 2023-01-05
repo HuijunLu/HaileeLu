@@ -6,22 +6,12 @@
 </p>
 <p id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=huijunlu&style=flat-square&color=blue" alt="huijunlu"/>
-</p
+</p>
 <p align="left"> </p>
 
 - 🌱 I’m currently learning more about **data structures & algorithm**
 - ⚡️ Always love exploring new tech stacks
 - 🏃‍♀️ I'm a marathon runner and yoga lover
----
-<h3> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="43px" height="30px">
-  Recent Projects
-</h3>
-- [BookFace: a social cataloging site](https://github.com/MarianTLibrarian/BookFace)
-- [Zion: E-Commerce site for latest fashion trends](https://github.com/HuijunLu/Zion-E-commerce)
-- [System Design](https://github.com/HuijunLu/System-Design-Project)
-
-
 
 
 <p align="left">
