@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! I'm Hailee</h1>
+<h1 align="center">Hi! I'm Huijun</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/luhuijun/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
