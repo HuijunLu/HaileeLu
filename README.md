@@ -9,10 +9,10 @@
 </p>
 <p align="left"> </p>
 
-- 🌱 I’m currently learning more about **data structures & algorithm**
+- 🌱 I’m currently learning more about **React**
 - ⚡️ Always love exploring new tech stacks
 - 🏃‍♀️ I'm a marathon runner and yoga lover
-
+- 👩‍💻 I'm a CPA working in tax consulting
 
 <p align="left">
 </p>
